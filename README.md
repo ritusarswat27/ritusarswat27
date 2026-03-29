@@ -1,5 +1,22 @@
-# 💫 About Me:
-I'm currently working on Strengthening my Data Structures & Algorithms skills and building beginner to intermediate level full stack projects.<br>I'm looking to collaborate on Open source projects, hackathons, and beginner-friendly full stack or backend development projects.<br>I'm looking for help with Writing clean and scalable backend code, improving problem-solving skills, and understanding real-world project architecture.<br>I'm currently learning Data Structures & Algorithms and Backend Development using Node.js & Express.<br>Ask me about  C++, Data Structures & Algorithms, Frontend Development, and basic Backend APIs.<br>Fun Fact I enjoy debugging code and turning small ideas into real-world projects 🚀<br><br>
+## 👩‍💻 About Me  
+
+- 🔭 I’m currently working on  
+  **Strengthening my Data Structures & Algorithms skills and building beginner to intermediate level full stack projects.**
+
+- 🤝 I’m looking to collaborate on  
+  **Open source projects, hackathons, and beginner-friendly full stack or backend development projects.**
+
+- 🆘 I’m looking for help with  
+  **Writing clean and scalable backend code, improving problem-solving skills, and understanding real-world project architecture.**
+
+- 🌱 I’m currently learning  
+  **Data Structures & Algorithms and Backend Development using Node.js & Express.**
+
+- 💬 Ask me about  
+  **C++, Data Structures & Algorithms, Frontend Development, and basic Backend APIs.**
+
+- ⚡ Fun fact  
+  **I enjoy debugging code and turning small ideas into real-world projects 🚀**
 
 
 ## 🌐 Socials:
